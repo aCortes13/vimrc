@@ -1,2 +1,2 @@
 # vimrc
-My vimrc file
+Copy file to home directory and change name to ".vimrc"
